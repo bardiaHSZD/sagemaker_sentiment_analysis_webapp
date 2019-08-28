@@ -1,2 +1,5 @@
-# sagemaker_sentiment_analysis_webapp
-This is a PyTorch web app for sentiment analysis of movie reviews, which invokes a PyTorch RNN to analyze user reviews from movie revies such as IMDB. This serves as the final project for the Udacity Nona-Degree "Deep Learning" 
+# SageMaker Deployment Project
+
+The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+
+Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
